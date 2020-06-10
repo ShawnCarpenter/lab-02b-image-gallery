@@ -23,11 +23,19 @@ body {
 }
 ul {
     list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
  li {
-     style:none;
+     padding: 1px;
  }
 .gallery-item {
     color: green;
     background-color:  hsla(200, 61%, 56%, 1);
+    margin: 3px 1px;
+    width: 200px;
+}
+caption {
+    padding: 2px;
 }
