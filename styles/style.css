@@ -43,7 +43,7 @@ ul {
     flex-direction: column;
     align-items: center;
 }
-.image-caption {
+figcaption {
     padding: 2px;
     text-align: center;
 }
