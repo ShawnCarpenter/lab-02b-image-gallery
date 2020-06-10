@@ -41,7 +41,7 @@ ul {
     border-radius: 5%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: strech; */
 }
 figcaption {
     padding: 2px;
